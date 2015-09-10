@@ -1,0 +1,2 @@
+# LifeGame
+Maven sample project
